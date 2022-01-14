@@ -152,6 +152,6 @@ In this section the app is explained:
 
 
 * Here the First graph shows the classification of the Data sources, from social media, news, and direct. The count of the number of the messages obtained from each source is plotted.
-![image](https://user-images.githubusercontent.com/94748110/149564386-4e45630f-d4b0-47e7-90e7-312e67dd5777.png)
+
 * The second graph displays the  number of message in each of the the disaster response categories.
-* 
+* ![image](https://user-images.githubusercontent.com/94748110/149564386-4e45630f-d4b0-47e7-90e7-312e67dd5777.png)
