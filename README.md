@@ -152,5 +152,6 @@ In this section the app is explained:
 
 
 * Here the First graph shows the classification of the Data sources, from social media, news, and direct. The count of the number of the messages obtained from each source is plotted.
-
+https://github.com/Fadwa-alrajih/Disaster-Response-Pipelines/blob/main/disaster-response-project%201.png
 * The second graph displays the  number of message in each of the the disaster response categories.
+* 
